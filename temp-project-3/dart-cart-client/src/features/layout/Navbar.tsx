@@ -133,6 +133,13 @@ const Nav = (props) => {
               </Link>
             </li>
             </Col>
+            <Col>
+            <li className="nav-item-mb-3 nav-item">
+              <Link to="/AdminPage" className="text-reset nav-link">
+                Admin
+              </Link>
+            </li>
+            </Col>
 
           </>
         )}

@@ -2,8 +2,6 @@ import {initializeApp} from "firebase/app";
 import {getStorage} from "firebase/storage" ;
 
 
-
-
 const firebaseConfig = {
     apiKey: "AIzaSyB8vxklg6-m-G8vUYANQ45uzD4OTIa4gsQ",
     authDomain: "dart-cart-273ad.firebaseapp.com",
